@@ -1,5 +1,5 @@
 print("Welcome to this name")
 
-user_name = "John Doe"
+user_name1 = "John Doe"
 
-print(user_name + " is a good guy" )
+print(user_name1 + " is a good guy" )
